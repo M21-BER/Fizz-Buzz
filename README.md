@@ -6,6 +6,6 @@
 * Other wise system will output the number 
 
 ----input 
-*- Any integer value between 1-~
-*- NoN integer values will result error
-*- Input 0 will result empty output
+* Any integer value between 1-~
+* NoN integer values will result error
+* Input 0 will result empty output
